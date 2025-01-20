@@ -844,11 +844,11 @@
 			]
 		},
 		"contracts/WrappedRedgold.sol": {
-			"keccak256": "0xe7a33bdce3f593dc2917d7d8befeccac2b3eff4aef4538bab160af3d2fa9401b",
+			"keccak256": "0xc76f0e7f5052c01d7dc88c87edd904af5c8af01804d087a9eb3b90d99c3c7922",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://98c48ece7d0875ec68043e030bebe7d254ce44713c6c3773cb25c4276e108fdd",
-				"dweb:/ipfs/QmRppRoGqpM29XzaNHR1ePyaQfe3ajFi6pKf9ag3U8mQXz"
+				"bzz-raw://78f66f9e1809d264119ec76b127ea7bfe9c002998f299854c86ce56d3aca52cf",
+				"dweb:/ipfs/QmYnhNFN1frbgpVWd7e3QJnfdXb7uisirf7SaovfXHWHRi"
 			]
 		}
 	},
